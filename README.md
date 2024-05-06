@@ -21,3 +21,4 @@ git clone https://github.com/derf567/Automated-Testing-Submission.git
 
 cd Automated-Testing-Submission
 npx cypress open
+then copy the fastapi.cy paste it to the  /cypress/e2e
