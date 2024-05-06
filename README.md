@@ -20,5 +20,6 @@ Open your VS Code and clone this repository using the following command:
 git clone https://github.com/derf567/Automated-Testing-Submission.git
 
 cd Automated-Testing-Submission
-npx cypress open
+goto https://docs.cypress.io/guides/getting-started/installing-cypress
+click getting started and follow the commands there
 then copy the fastapi.cy paste it to the  /cypress/e2e
